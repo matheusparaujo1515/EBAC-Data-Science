@@ -15,3 +15,5 @@ Para mais informações sobre como utilizar as ferramentas e técnicas abordadas
 
 - Pandas
 - Matplotlib
+- Seaborn
+- Numpy
