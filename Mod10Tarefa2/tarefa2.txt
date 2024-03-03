@@ -1,3 +1,0 @@
-- Compreender a análise descritiva para variáveis qualitativas.
-- Aprender a calcular o erro padrão e interpretar seu significado.
-- Aplicar o conceito de intervalo de confiança na análise de dados.
