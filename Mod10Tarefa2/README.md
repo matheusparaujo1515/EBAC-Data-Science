@@ -1,13 +1,9 @@
-# Módulo 10 - Tarefa 01
+# Módulo 10 - Tarefa 02
 Neste módulo, exploramos diversos conceitos relacionados a Compreender o conceito de correlação e covariância. Algumas das principais habilidades que adquirimos incluem:
 
-- Identificar diferentes intensidades de correlação
-- Analisar a associação linear entre um par de variáveis
-- Compreender a estrutura de correlação mútua entre dados contínuos
-- Interpretar um cluster map em um conjunto de dados
-- Compreender o impacto dos outliers em análises de dados
-- Aplicar técnicas para identificar e substituir outliers
-- Explorar a transformação de dados para acomodar outlier
+- Compreender a análise descritiva para variáveis qualitativas.
+- Aprender a calcular o erro padrão e interpretar seu significado.
+- Aplicar o conceito de intervalo de confiança na análise de dados.
 
 ## Conteúdo
 O arquivo **previsao_de_renda.csv** contém informações fictícias de um banco
