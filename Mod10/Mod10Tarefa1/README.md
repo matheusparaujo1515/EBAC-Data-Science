@@ -1,4 +1,4 @@
-### Módulo 10 - Tarefa 01
+# Módulo 10 - Tarefa 01
 Neste módulo, exploramos diversos conceitos relacionados a Compreender o conceito de correlação e covariância. Algumas das principais habilidades que adquirimos incluem:
 
 - Identificar diferentes intensidades de correlação
@@ -9,10 +9,10 @@ Neste módulo, exploramos diversos conceitos relacionados a Compreender o concei
 - Aplicar técnicas para identificar e substituir outliers
 - Explorar a transformação de dados para acomodar outlier
 
-# Conteúdo
+## Conteúdo
 O arquivo **previsao_de_renda.csv** contém informações fictícias de um banco
 
-# Referências
+## Referências
 Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
 
 Pandas 
