@@ -9,7 +9,7 @@ Neste módulo, exploramos diversos conceitos relacionados a agregações e opera
 
 ## Conteúdo
 
-- `MMod11/Mod11Tarefa2/Profissão Cientista de Dados_M11_assignment02.ipynb`: Notebook Jupyter com a resolução do exercício.
+- `Mod9/Mod9Tarefa1/Mod9Tarefa1.ipynb`: Notebook Jupyter com a resolução do exercício.
 - `base_de_dados.csv`: Arquivo contendo informações do Sistema de Informações sobre Nascidos Vivos (SINASC) do estado de Rondônia, referente ao ano de 2019.
 - `dicionario_colunas.pdf`: Dicionário de dados que descreve o significado de cada coluna na base de dados.
 
