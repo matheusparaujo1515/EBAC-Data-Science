@@ -1,5 +1,6 @@
 # Módulo 11 - Tarefa 01
-Neste módulo, exploramos diversos conceitos relacionados a Compreender o conceito de árvore de regressão. Algumas das principais habilidades que adquirimos incluem:
+
+Neste módulo, exploramos diversos conceitos relacionados à compreensão do conceito de árvore de regressão. Algumas das principais habilidades que adquirimos incluem:
 
 - Aplicar a técnica de árvore de regressão em um projeto prático.
 - Identificar variáveis relevantes para a modelagem de árvore de regressão.
@@ -13,21 +14,23 @@ Neste módulo, exploramos diversos conceitos relacionados a Compreender o concei
 - Diferenciar árvore de regressão e árvore de classificação.
 - Interpretar a árvore de regressão e suas regras.
 - Aplicar diferentes métodos de visualização em árvores de regressão.
-Compreender o processo de pré-poda em árvores de decisão.
-
+- Compreender o processo de pré-poda em árvores de decisão.
 
 ## Conteúdo
-O arquivo **boston.csv** contém uma base sobre os valores de imóveis de Boston - EUA.
+
+- `Mod11/Mod11Tarefa1/Profissão Cientista de Dados_M11_assignment01.ipynb`: Notebook Jupyter com a resolução do exercício.
+- `boston.csv`: Arquivo contendo uma base sobre os valores de imóveis de Boston, EUA.
 
 ## Referências
+
 Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
 
-- Pandas 
-- Matplotlib 
-- Seaborn 
-- Numpy
-- Sklearn 
-- Sklearn.tree
-- Sklearn.model_selection
-- Sklearn.metrics
-- Graphviz
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Matplotlib](https://matplotlib.org/stable/contents.html)
+- [Seaborn](https://seaborn.pydata.org/tutorial.html)
+- [NumPy](https://numpy.org/doc/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Scikit-learn.tree](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.tree)
+- [Scikit-learn.model_selection](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection)
+- [Scikit-learn.metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics)
+- [Graphviz](https://graphviz.org/documentation/)
