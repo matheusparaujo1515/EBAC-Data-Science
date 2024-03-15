@@ -9,6 +9,7 @@ Neste módulo, exploramos diversos conceitos relacionados a agregações e opera
 
 ## Conteúdo
 
+- `Mod9Tarefa2.ipynb`: Notebook Jupyter com a resolução do exercício.
 - `SINASC_RO_2019.csv`: Arquivo contendo informações do Sistema de Informações sobre Nascidos Vivos (SINASC) do estado de Rondônia, referente ao ano de 2019.
 - `Dicionário_SINASC.pdf`: Dicionário de dados que descreve o significado de cada coluna na base de dados.
 - `IBGE-RONDONIA-XLSX.xlsx`: Arquivo retirado do site do Instituto Brasileiro de Geografia e Estatística - IBGE, contendo informações como o Índice de Desenvolvimento Humano (IDH), Produto Interno Bruto (PIB) e outros dados do estado de Rondônia em 2019. Este arquivo foi utilizado para a resolução do exercício 5.
