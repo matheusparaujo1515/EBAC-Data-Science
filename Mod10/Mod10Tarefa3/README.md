@@ -6,13 +6,13 @@ Neste módulo, exploramos diversos conceitos relacionados a Compreender o concei
 - Identificar alterações significativas que podem indicar a necessidade de revisão do modelo.
 
 ## Conteúdo
-O arquivo **previsao_de_renda.csv** contém informações fictícias de um banco
-
+- `Mod10/Mod10Tarefa3/Profissao-Cientista de Dados_M10_support material_assignment03 (1).ipynb`: Notebook Jupyter com a resolução do exercício.
+- `previsao_de_renda.csv`: Arquivo contendo informações fictícias de um banco.
 ## Referências
 Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
 
-Pandas 
-Matplotlib 
-Seaborn 
-Numpy
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Matplotlib](https://matplotlib.org/stable/contents.html)
+- [Seaborn](https://seaborn.pydata.org/tutorial.html)
+- [NumPy](https://numpy.org/doc/)
 
