@@ -21,8 +21,4 @@ Para mais informações sobre como utilizar as ferramentas e técnicas abordadas
 - Matplotlib 
 - Seaborn 
 - Numpy
-- Sklearn 
-- Sklearn.tree
-- Sklearn.model_selection
-- Sklearn.metrics
-- Graphviz
+- Statsmodels
