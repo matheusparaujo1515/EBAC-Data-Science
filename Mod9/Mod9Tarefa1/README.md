@@ -11,7 +11,7 @@ Neste módulo, exploramos diversos conceitos relacionados a agregações e opera
 
 - `Mod9Tarefa1.ipynb`: Notebook Jupyter com a resolução do exercício.
 - `SINASC_RO_2019.csv`: Arquivo contendo informações do Sistema de Informações sobre Nascidos Vivos (SINASC) do estado de Rondônia, referente ao ano de 2019.
-- `dicionario_colunas.pdf`: Dicionário de dados que descreve o significado de cada coluna na base de dados.
+- `Dicionário.pdf`: Dicionário de dados que descreve o significado de cada coluna na base de dados.
 
 Este repositório foi criado como parte da Tarefa 01 do Módulo 9, para consolidar o aprendizado e fornecer um recurso para referência futura.
 
