@@ -9,7 +9,7 @@ Neste módulo, exploramos diversos conceitos relacionados a Compreender o concei
 - `Profissao-Cientista de Dados_M10_support material_assignment03 (1).ipynb`: Notebook Jupyter com a resolução do exercício.
 - `previsao_de_renda.csv`: Arquivo contendo informações fictícias de um banco.
 
-Este repositório foi criado como parte da Tarefa 01 do Módulo 9, para consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte da Tarefa 03 do Módulo 10, para consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
