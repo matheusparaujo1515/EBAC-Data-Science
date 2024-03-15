@@ -13,7 +13,6 @@ Neste módulo, exploramos diversos conceitos relacionados a Compreender o regres
 
 ## Conteúdo
 - `mod12 ex01 - regressão linear simples.ipynb`: Notebook Jupyter com a resolução do exercício.
-- `previsao_de_renda.csv`: Arquivo contendo informações fictícias de um banco.
 
 Este repositório foi criado como parte da Tarefa 01 do Módulo 12, para consolidar o aprendizado e fornecer um recurso para referência futura.
 
