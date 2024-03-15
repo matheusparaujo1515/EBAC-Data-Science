@@ -7,7 +7,7 @@ Neste módulo, exploramos diversos conceitos relacionados a Compreender o concei
 
 ## Conteúdo
 
-- `Mod10/Mod10Tarefa2/Profissao-Cientista de Dados_M10_support material_assignment02.ipynb`: Notebook Jupyter com a resolução do exercício.
+- `Profissao-Cientista de Dados_M10_support material_assignment02.ipynb`: Notebook Jupyter com a resolução do exercício.
 - `previsao_de_renda.csv`: Arquivo contendo informações fictícias de um banco.
 
 ## Referências
