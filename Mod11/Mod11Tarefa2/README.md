@@ -7,9 +7,11 @@ Neste módulo, exploramos diversos conceitos relacionados a Compreender o concei
 
 ## Conteúdo
 
-- `MMod11/Mod11Tarefa2/Profissão Cientista de Dados_M11_assignment02.ipynb`: Notebook Jupyter com a resolução do exercício.
+- `Profissão Cientista de Dados_M11_assignment02.ipynb`: Notebook Jupyter com a resolução do exercício.
 - `boston.csv`: Arquivo contendo uma base sobre os valores de imóveis de Boston, EUA.
-  
+
+Este repositório foi criado como parte da Tarefa 02 do Módulo 11, para consolidar o aprendizado e fornecer um recurso para referência futura.
+
 ## Referências
 
 Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
