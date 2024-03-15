@@ -6,17 +6,20 @@ Neste módulo, exploramos diversos conceitos relacionados a Compreender o concei
 - Analisar o erro quadrado médio (MSE) da árvore em função do alfa.
 
 ## Conteúdo
-O arquivo **boston.csv** contém uma base sobre os valores de imóveis de Boston - EUA.
 
+- `MMod11/Mod11Tarefa2/Profissão Cientista de Dados_M11_assignment02.ipynb`: Notebook Jupyter com a resolução do exercício.
+- `boston.csv`: Arquivo contendo uma base sobre os valores de imóveis de Boston, EUA.
+  
 ## Referências
+
 Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
 
-- Pandas 
-- Matplotlib 
-- Seaborn 
-- Numpy
-- Sklearn 
-- Sklearn.tree
-- Sklearn.model_selection
-- Sklearn.metrics
-- Graphviz
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Matplotlib](https://matplotlib.org/stable/contents.html)
+- [Seaborn](https://seaborn.pydata.org/tutorial.html)
+- [NumPy](https://numpy.org/doc/)
+- [Scikit-learn](https://scikit-learn.org/stable/)
+- [Scikit-learn.tree](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.tree)
+- [Scikit-learn.model_selection](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.model_selection)
+- [Scikit-learn.metrics](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.metrics)
+- [Graphviz](https://graphviz.org/documentation/)
