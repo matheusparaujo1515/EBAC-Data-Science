@@ -21,7 +21,7 @@ Neste módulo, exploramos diversos conceitos relacionados à compreensão do con
 - `Profissão Cientista de Dados_M11_assignment01.ipynb`: Notebook Jupyter com a resolução do exercício.
 - `boston.csv`: Arquivo contendo uma base sobre os valores de imóveis de Boston, EUA.
 
-Este repositório foi criado como parte da Tarefa 1 do Módulo 11, para consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte da Tarefa 01 do Módulo 11, para consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
