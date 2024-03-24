@@ -1,4 +1,4 @@
-# Módulo 9 - Tarefa 02
+# Módulo 09 - Tarefa 02
 
 Neste módulo, exploramos diversos conceitos relacionados a agregações e operações em grupos no Python. Algumas das principais habilidades que adquirimos incluem:
 
@@ -15,7 +15,7 @@ Neste módulo, exploramos diversos conceitos relacionados a agregações e opera
 - `IBGE-RONDONIA-XLSX.xlsx`: Arquivo retirado do site do Instituto Brasileiro de Geografia e Estatística - IBGE, contendo informações como o Índice de Desenvolvimento Humano (IDH), Produto Interno Bruto (PIB) e outros dados do estado de Rondônia em 2019. Este arquivo foi utilizado para a resolução do exercício 5.
 - `IFDM.xlsx`: Arquivo contendo informações do Índice FIRJAN de Desenvolvimento Municipal (IFDM) do estado de Rondônia. Os dados foram retirados da Wikipedia e também são fundamentais para a resolução do exercício 5.
 
-Este repositório foi criado como parte da Tarefa 02 do Módulo 9, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte da Tarefa 02 do Módulo 09, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
