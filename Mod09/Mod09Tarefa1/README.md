@@ -1,4 +1,4 @@
-# Módulo 9 - Tarefa 01
+# Módulo 09 - Tarefa 01
 
 Neste módulo, exploramos diversos conceitos relacionados a agregações e operações em grupos no Python. Algumas das principais habilidades que adquirimos incluem:
 
@@ -13,7 +13,7 @@ Neste módulo, exploramos diversos conceitos relacionados a agregações e opera
 - `SINASC_RO_2019.csv`: Arquivo contendo informações do Sistema de Informações sobre Nascidos Vivos (SINASC) do estado de Rondônia, referente ao ano de 2019.
 - `Dicionário.pdf`: Dicionário de dados que descreve o significado de cada coluna na base de dados.
 
-Este repositório foi criado como parte da Tarefa 01 do Módulo 9, para consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte da Tarefa 01 do Módulo 09, para consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
