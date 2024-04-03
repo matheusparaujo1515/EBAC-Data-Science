@@ -30,3 +30,5 @@ Para mais informações sobre como utilizar as ferramentas e técnicas abordadas
 - [Numpy](https://numpy.org/doc/)
 - [Time](https://docs.python.org/3/library/time.html)
 - [Pydeck](https://deckgl.readthedocs.io/en/latest/)
+
+Para visualizar o aplicativo Streamlit hospedado na web, clique [aqui](https://ebac-data-science-mod15-tarefa01.streamlit.app).
