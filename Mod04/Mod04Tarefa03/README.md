@@ -12,7 +12,7 @@ Neste módulo, exploramos diversos conceitos relacionados a compreender a ler di
 
 ## Conteúdo
 
-- `Mod04Tarefa02.ipynb`: Notebook Jupyter com a resolução do exercício.
+- `Mod04Tarefa03.ipynb`: Notebook Jupyter com a resolução do exercício.
 - `dataframe_bahia.csv`: Arquivo CSV gerado conforme pedido pela questão 2
 
 Este repositório foi criado como parte da Tarefa 03 do Módulo 04, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
