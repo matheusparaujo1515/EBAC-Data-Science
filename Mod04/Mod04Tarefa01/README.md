@@ -17,3 +17,4 @@ Este repositório foi criado como parte da Tarefa 01 do Módulo 04, com o objeti
 
 Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
 - [Pandas](https://pandas.pydata.org/docs/)
+- [NumPy](https://numpy.org/doc/)
