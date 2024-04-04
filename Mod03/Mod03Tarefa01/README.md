@@ -15,7 +15,7 @@ Neste módulo, exploramos os conceitos básicos da linguagem de programação Py
 
 ## Conteúdo
 
-- `Mod03Tarefa01/Mod03Ex01 - Python basico.ipynb`: Notebook Jupyter com a resolução do exercício.
+- `Mod03Ex01 - Python basico.ipynb`: Notebook Jupyter com a resolução do exercício.
 
 Este repositório foi criado como parte da Tarefa 01 do Módulo 03, para consolidar o aprendizado e fornecer um recurso para referência futura.
 
