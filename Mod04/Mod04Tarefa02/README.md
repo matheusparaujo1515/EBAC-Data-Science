@@ -12,7 +12,7 @@ Neste módulo, exploramos diversos conceitos relacionados a compreender a seleç
 
 ## Conteúdo
 
-- `Mod04 Tarefa01.ipynb`: Notebook Jupyter com a resolução do exercício.
+- `Mod04Tarefa02.ipynb`: Notebook Jupyter com a resolução do exercício.
 - `registros de vacinacao covid ACRE.zip`: Pasta compactada contendo a base de dados utilizada na questão n° 3.
 
 
