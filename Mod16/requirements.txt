@@ -108,7 +108,7 @@ typing_extensions==4.11.0
 tzdata==2023.4
 urllib3==2.2.1
 virtualenv==20.25.1
-visions==0.7.6
+visions
 watchdog==4.0.0
 wcwidth==0.2.13
 wordcloud==1.9.3
