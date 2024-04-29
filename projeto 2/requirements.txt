@@ -81,7 +81,6 @@ pytest==8.0.2
 python-dateutil==2.8.2
 pytz==2024.1
 PyWavelets==1.6.0
-pywin32==306
 pywin32-ctypes==0.2.2
 PyYAML==6.0.1
 pyzmq==25.1.2
