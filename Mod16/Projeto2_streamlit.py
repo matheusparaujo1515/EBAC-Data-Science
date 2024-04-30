@@ -19,7 +19,7 @@ st.write('\n')
 st.write('\n')
 
 
-renda = pd.read_csv('C:/Users/mathe/OneDrive/16 - MODULO - MÉTODOS DE ANÁLISE/projeto 2/input/previsao_de_renda.csv')
+renda = pd.read_csv('Mod16/input/previsao_de_renda.csv')
 
 st.write('Iremos utilizar apenas as variáveis que o modelo final de regressão selecionou.')
 st.write('Sendo elas:')
