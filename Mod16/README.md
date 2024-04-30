@@ -27,16 +27,16 @@ Neste módulo, iremos realizar o projeto 2 do curso, que consiste em criar um mo
 
 ## Conteúdo
 
-- `Projeto 2 - Previsão de renda.ipynb`: notebook Jupyter contendo código do projeto de previsão de renda.
-- `output`: Pasta onde são salvos os arquivos que são gerados como saída durante a execução do notebook Jupyter do projeto.
-- `input`: Pasta contendo a base de dados para criação de modelo de machine learning.
-- `previsao_de_renda.csv`: base de dados localizada na pasta `input`.
-- `Projeto2_streamlit.py`: código de criação do streamlit com o deploy do projeto.
-- `requirements.txt`: arquivo que contém as versão das bibliotecas utilizadas no deploy.
-- `Projeto2_streamlit.mov.webm`: video apresentando o deploy criado.
+- `Projeto 2 - Previsão de renda.ipynb`: Este notebook Jupyter contém o código do projeto de previsão de renda. Ele inclui análises exploratórias de dados, desenvolvimento e treinamento de modelos de machine learning, visualizações de dados e outras análises relacionadas ao projeto.
+- `output`: Pasta contém os arquivos que são gerados como saída durante a execução do notebook Jupyter do projeto. Isso pode incluir gráficos, imagens, e arquivos html ou qualquer outra saída produzida durante a análise de dados.
+- `input`: Essa pasta contém a base de dados usada para criar o modelo de machine learning.
+- `previsao_de_renda.csv`: Este arquivo CSV é a base de dados usada para treinar e testar o modelo de machine learning, localizado na pasta `input`.
+- `Projeto2_streamlit.py`: EsSe arquivo contém o código para criar o aplicativo Streamlit com o deploy do projeto..
+- `requirements.txt`: Arquivo que contém as versão das bibliotecas Python utilizadas no deploy.
+- `Projeto2_streamlit.mov.webm`: Esse vídeo apresenta o deploy criado com o aplicativo Streamlit.
 
 
-Este repositório foi criado como parte do projeto 02 do Módulo 16, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte do projeto 02 realizado no Módulo 16, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
