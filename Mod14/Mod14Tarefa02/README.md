@@ -1,6 +1,6 @@
 # Módulo 14 - Tarefa 02
 
-Neste módulo, aprendemos a compreender a importância e utilidade dos scripts para automatizar tarefas.
+Neste módulo, aprendemos a compreender a importância e utilidade dos scripts para automatizar tarefas. Algumas das principais habilidades que adquirimos incluem:
 
 - Compreender como executar um script Python usando um editor de texto simples.
 - Aprender a lidar com erros ao criar arquivos ou diretórios já existentes.
