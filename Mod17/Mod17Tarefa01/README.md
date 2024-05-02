@@ -12,7 +12,7 @@ Neste módulo, compreender o conceito de classificação multinomial. Algumas da
 
 - `Mod17Tarefa01.ipynb`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
 - `output`: Pasta onde são salvos os arquivos csv que são gerados como saída durante a execução do notebook Jupyter.
-- `input`: Pasta contendo os arquivos da base de dados que serve como entrada para os códigos contidos no arquivo `Mod17Tarefa01.ipynb`.
+- `input`: Pasta contendo os arquivos da base de dados que servem como entrada para os códigos contidos no arquivo `Mod17Tarefa01.ipynb`.
 
 Este repositório foi criado como parte da Tarefa 01 do Módulo 17, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
