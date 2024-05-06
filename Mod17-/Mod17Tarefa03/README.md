@@ -10,8 +10,7 @@ Neste módulo, compreender o conceito de classificação multinomial. Algumas da
 ## Conteúdo
 
 - `Mod17Tarefa03.ipynb`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
-- `input`: Pasta contendo os arquivos da base de dados que servem como entrada para os códigos contidos no arquivo `Mod17Tarefa03.ipynb`.
-
+ 
 Este repositório foi criado como parte da Tarefa 03 do Módulo 17, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
