@@ -45,8 +45,8 @@ def to_excel(df):
 
 # App principal
 def main():
-    icon = 'https://github.com/matheusparaujo1515/EBAC-Data-Science/blob/43a0774a7c98b7847ebbd8014c386bbaa22f7e51/Mod19/Mod19Tarefa01-02/img/icon.png'
-    logo = 'https://github.com/matheusparaujo1515/EBAC-Data-Science/blob/43a0774a7c98b7847ebbd8014c386bbaa22f7e51/Mod19/Mod19Tarefa01-02/img/logo.png'
+    icon = 'https://raw.githubusercontent.com/matheusparaujo1515/EBAC-Data-Science/blob/43a0774a7c98b7847ebbd8014c386bbaa22f7e51/Mod19/Mod19Tarefa01-02/img/icon.png'
+    logo = 'https://raw.githubusercontent.com/matheusparaujo1515/EBAC-Data-Science/blob/43a0774a7c98b7847ebbd8014c386bbaa22f7e51/Mod19/Mod19Tarefa01-02/img/logo.png'
     
     st.set_page_config(page_title= 'Telemarketing analisys', 
                        page_icon= icon,
@@ -153,8 +153,8 @@ def main():
         st.write('## Após os filtros')
         st.write(bank.head())
         
-        csv = df_toString(bank_raw)
-        df_xlsx = to_excel(bank_raw)
+        csv = df_toString(bank)
+        df_xlsx = to_excel(bank)
         st.write('### Faça Download do arquivo filtrado')
         st.download_button(label='📥 Download data as EXCEL',
                             data=df_xlsx ,
