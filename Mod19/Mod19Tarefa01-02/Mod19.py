@@ -45,8 +45,8 @@ def to_excel(df):
 
 # App principal
 def main():
-    icon = 'https://raw.githubusercontent.com/matheusparaujo1515/EBAC-Data-Science/blob/43a0774a7c98b7847ebbd8014c386bbaa22f7e51/Mod19/Mod19Tarefa01-02/img/icon.png'
-    logo = 'https://raw.githubusercontent.com/matheusparaujo1515/EBAC-Data-Science/blob/43a0774a7c98b7847ebbd8014c386bbaa22f7e51/Mod19/Mod19Tarefa01-02/img/logo.png'
+    icon = 'https://github.com/matheusparaujo1515/EBAC-Data-Science/blob/main/Mod19/Mod19Tarefa01-02/img/icon.png?raw=true'
+    logo = 'https://github.com/matheusparaujo1515/EBAC-Data-Science/blob/main/Mod19/Mod19Tarefa01-02/img/logo.png?raw=true'
     
     st.set_page_config(page_title= 'Telemarketing analisys', 
                        page_icon= icon,
