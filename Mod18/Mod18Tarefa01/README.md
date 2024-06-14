@@ -1,6 +1,6 @@
 # Módulo 18 - Tarefa 01
 
-Neste módulo, conhecer o conceito de regressão logística. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, conhecemos o conceito de regressão logística. Algumas das principais habilidades que adquirimos incluem:
 - Identificar a diferença entre regressão logística e linear.
 - Reconhecer a aplicação da regressão logística em dados binários.
 - Compreender o conceito de regressão logística através da análise bivariada.
