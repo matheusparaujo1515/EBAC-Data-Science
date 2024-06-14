@@ -1,6 +1,6 @@
 # Módulo 05 - Tarefa 02
 
-Neste módulo, exploramos diversos conceitos relacionados a Limpeza e preparação de dados. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, exploramos diversos conceitos relacionados a limpeza e preparação de dados. Algumas das principais habilidades que adquirimos incluem:
 - Compreender o processo de amostragem em grandes conjuntos de dados.
 - Aplicar métodos de string para manipulação de texto em Python.
 - Identificar a importância do parâmetro 'random_state' na amostragem.
