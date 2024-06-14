@@ -1,6 +1,6 @@
 # Módulo 15 - Tarefa 01
 
-Neste módulo, Compreender a funcionalidade e utilidade do Streamlit. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos a funcionalidade e utilidade do Streamlit. Algumas das principais habilidades que adquirimos incluem:
 - Executar e explorar uma aplicação web de exemplo do Streamlit.
 - Compreender como iniciar um aplicativo web usando Streamlit.
 - Conhecer o comando 'write' do Streamlit e suas funcionalidades.
