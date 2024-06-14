@@ -1,6 +1,6 @@
 # Módulo 17 - Tarefa 02
 
-Neste módulo, compreender o conceito de classificação multinomial. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos o conceito de classificação multinomial. Algumas das principais habilidades que adquirimos incluem:
 - Compreender o conceito de cross-validation.
 - Implementar a técnica de cross-validation em Python.
 - Analisar a performance de um modelo usando cross-validation.
