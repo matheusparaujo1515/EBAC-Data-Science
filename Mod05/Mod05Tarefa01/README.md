@@ -1,6 +1,6 @@
 # Módulo 05 - Tarefa 01
 
-Neste módulo, exploramos diversos conceitos relacionados a Limpeza e preparação de dados. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, exploramos diversos conceitos relacionados a limpeza e preparação de dados. Algumas das principais habilidades que adquirimos incluem:
 - Identificar dados ausentes em um DataFrame utilizando os métodos isna() e isnull().
 - Aplicar técnicas para tratar dados ausentes, como preenchimento e remoção.
 - Mapear valores em uma coluna para outros valores usando o método "map".
