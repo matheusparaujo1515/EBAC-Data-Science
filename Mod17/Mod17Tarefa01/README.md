@@ -1,6 +1,6 @@
 # Módulo 17 - Tarefa 01
 
-Neste módulo, compreender o conceito de classificação multinomial. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos o conceito de classificação multinomial. Algumas das principais habilidades que adquirimos incluem:
 - Revisar as métricas de impureza, especificamente a métrica de Gini e a entropia.
 - Preparar-se para resolver um problema de classificação multinomial no Jupyter Notebook.
 - Preparar a base de dados para análise, incluindo a separação de variáveis.
