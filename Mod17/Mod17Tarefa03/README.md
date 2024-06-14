@@ -1,6 +1,6 @@
 # Módulo 17 - Tarefa 03
 
-Neste módulo, compreender o conceito de classificação multinomial. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos o conceito de classificação multinomial. Algumas das principais habilidades que adquirimos incluem:
 - Compreender os diferentes tipos de validação cruzada.
 - Identificar os métodos exaustivos, não exaustivos e hierárquicos.
 - Compreender o conceito de K-Fold Cross Validation.
