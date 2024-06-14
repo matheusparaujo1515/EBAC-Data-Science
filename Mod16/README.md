@@ -7,7 +7,7 @@
 
 [Visualização online do deploy](https://ebac-data-science-mod16.streamlit.app/)
 
-Neste módulo, iremos realizar o projeto 2 do curso, que consiste em criar um modelo de machine learning de regressão para previsão de renda. Algumas das principais habilidades que utilizamos incluem:
+Neste módulo, realizamos o projeto 2 do curso, que consiste em criar um modelo de machine learning de regressão para previsão de renda. Algumas das principais habilidades que utilizamos incluem:
 
 - Desenvolver habilidades de análise de dados usando Python e Jupyter Notebook.
 - Compreender a importância de personalizar e aprimorar a entrega de projetos.
