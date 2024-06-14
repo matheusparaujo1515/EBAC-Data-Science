@@ -1,5 +1,5 @@
 # Módulo 13 - Tarefa 01
-Neste módulo, continuaremos a explorar diversos conceitos relacionados a compreender o regressão e sua importância na ciência de dados. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, continuaremos a explorar diversos conceitos relacionados a compreender regressão e sua importância na ciência de dados. Algumas das principais habilidades que adquirimos incluem:
 - Compreender a importância e versatilidade da análise de regressão.
 - Diferenciar entre previsão e explicação em análise de dados.
 - Reconhecer as limitações e vieses em modelos de regressão.
