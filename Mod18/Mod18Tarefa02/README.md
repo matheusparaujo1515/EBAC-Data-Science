@@ -1,6 +1,6 @@
 # Módulo 18 - Tarefa 02
 
-Neste módulo, conhecer o conceito de regressão logística. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos o conceito de regressão logística. Algumas das principais habilidades que adquirimos incluem:
 - Interpretar os coeficientes do modelo de regressão logística.
 - Compreender a regressão logística com múltiplas variáveis.
 - Interpretar os parâmetros do modelo de regressão logística.
