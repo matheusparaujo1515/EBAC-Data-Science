@@ -1,4 +1,4 @@
-# Módulo 18 - Tarefa 01
+# Módulo 20 - Tarefa
 
 Neste módulo, aprendemos o uso avançado do Markdown no Jupyter Notebook. Algumas das principais habilidades que adquirimos incluem:
 
@@ -24,5 +24,5 @@ Neste módulo, aprendemos o uso avançado do Markdown no Jupyter Notebook. Algum
 - `Mod20Tarefa01.ipynb`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
 - `Tarefa2.PNG`: Imagem contendo o modelo para a resolução do exercício.
 
-Este repositório foi criado como parte da Tarefa 01 do Módulo 20, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte da Tarefa do Módulo 20, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
