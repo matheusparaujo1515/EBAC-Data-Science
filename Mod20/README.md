@@ -1,6 +1,6 @@
 # Módulo 18 - Tarefa 01
 
-Neste módulo, aprendemos a compreender o uso avançado do Markdown no Jupyter Notebook. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, aprendemos o uso avançado do Markdown no Jupyter Notebook. Algumas das principais habilidades que adquirimos incluem:
 
 - Aprender a inserir trechos de código em diferentes linguagens de programação.
 - Dominar a criação de links e inserção de imagens no notebook.
