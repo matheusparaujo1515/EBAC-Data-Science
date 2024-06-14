@@ -1,6 +1,6 @@
 # Módulo 14 - Tarefa 01
 
-Neste módulo, Compreender a importância e utilidade dos scripts para automatizar tarefas. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos a importância e utilidade dos scripts para automatizar tarefas. Algumas das principais habilidades que adquirimos incluem:
 - Compreender a importância e utilidade dos scripts para automatizar tarefas.
 - Identificar a necessidade de automatização em análises recorrentes.
 - Desenvolver a primeira aplicação em Python usando Streamlit.
