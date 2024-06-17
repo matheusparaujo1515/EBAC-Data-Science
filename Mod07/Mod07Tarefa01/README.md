@@ -5,7 +5,7 @@ Neste módulo, exploramos diversos conceitos relacionados à compreensão do con
 - Aprender a usar árvores de decisão para classificar dados.
 - Aplicar métodos para tratar dados ausentes e duplicados.
 - Transformar variáveis categóricas em numéricas.
-- 
+
 ## Conteúdo
 
 - `Mod07 - Tarefa 01.ipynb`: Notebook Jupyter com a resolução do exercício.
