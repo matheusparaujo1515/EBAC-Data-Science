@@ -1,6 +1,6 @@
 # Módulo 21 - Tarefa 03
 
-Neste módulo, compreender conceitos básicos de SQL e gerenciamento de bancos de dados. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos conceitos básicos de SQL e gerenciamento de bancos de dados. Algumas das principais habilidades que adquirimos incluem:
 - Compreender como executar consultas SQL básicas.
 - Dominar a função COUNT do SQL para contar linhas.
 - Compreender como adicionar um novo banco de dados ao PostgreSQL.
