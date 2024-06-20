@@ -22,7 +22,7 @@ Neste módulo, compreendemos conceitos básicos de SQL e gerenciamento de bancos
 ## Conteúdo
 
 - `Mod21Tarefa03.ipynb`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
-- `dvdrental.zip`: Pasta compactada contendo a base de dados utilizada na banco de dados PostgreSQL.
+- `dvdrental.zip`: Pasta compactada contendo a base de dados utilizada no banco de dados PostgreSQL.
 
 Este repositório foi criado como parte da Tarefa 03 do Módulo 21, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 As tarefas 1 e 2 não foram postadas pois consistiam em enviar imagens de como estava o código, não sendo necessário o upload em um repositório, visto que todo o código seria postado por completo na Tarefa 03.
