@@ -1,63 +1,33 @@
-# Título do projeto
+# Módulo 28 - Tarefa
 
-Um simples resumo do uso/propósito do projeto.
+[Visualização online do deploy](https://deploy-mod28.streamlit.app)
 
-## Descrição do projeto
+Neste módulo, iremos compreender funcionalidades avançadas do Streamlit. Algumas das principais habilidades que utilizamos incluem:
 
-Um parágrafo aprofundando mais sobre o seu projeto e uma explicação geral do uso.
+- Compreender o processo de deploy em aplicações Streamlit.
+- Identificar diferentes maneiras de disponibilizar resultados de análises.
+- Implementar a arquitetura desejada para execução de aplicações em um servidor.
+- Preparar-se para disponibilizar a aplicação em um servidor.
 
-## Utilização
-[Link da aplicação](https://deploy-mod28.streamlit.app/)
+## Conteúdo
 
-### Dependencias
+- `app_7.py`: Este arquivo contém o código da aplicação utilizando o streamlit.
+- `bank-additional.csv`: Base de dados utilizada na análise.
+- `Bank-Branding.jpg`: Essa arquivo trata-se da imagem de inicio página do deploy.
+- `telmarketing_icon.png`: Essa arquivo trata-se da imagem que fica na aba da página do deploy.
+- `requirements.txt`: Arquivo que contém as versão das bibliotecas Python utilizadas no deploy.
 
-* Descreve quaisquer prerequisitos, bibliotecas, versão do SO, etc., que é necessário para rodar o projeto.
-* exemplo. Windows 10...
 
-### Instalação
+Este repositório foi criado como parte da Tarefas 01 do Módulo 28, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
-* Como/aonde fazer o download do seu projeto/programa
-* Quaisquer modificação necessária nos arquivos/diretórios
+## Referências
 
-### Executando o projeto
+Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
 
-* Como rodar o projeto/programa
-* Passo a passo em tópicos (bullet points)
-```
-bloco de código para os comandos necessários
-```
-
-## Ajuda
-
-Qualquer ponto importante de problemas ou erros comuns
-```
-comando para rodar se o programa tiver uma informação de ajuda
-```
-
-## Autores
-
-Nomes dos desenvolvedores do projeto e informação para entrar em contato.
-
-ex. Lucas Serra  
-ex. [@LucasSerra](https://www.linkedin.com/in/lucasserra03/)
-
-## Histórico de versões.
-
-* 0.2
-	* Ajustes de diversos bugs e otimização
-* 0.1
-    * Primeira versão
-
-## Licença de uso
-
-Esse projeto possui licença de uso [NAME HERE] - acesse o arquivo LICENSE.md para mais detalhes.
-
-## Fontes de inspiração
-
-Inspiração, trechos de códigos utilizados, etc.
-* [readme-template](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+- [Pandas](https://pandas.pydata.org/docs/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Streamlit](https://docs.streamlit.io/)
+- [Io](https://docs.python.org/3/library/io.html)
+- [Pillow](https://pillow.readthedocs.io/en/stable/)
+- [XlsxWriter](https://xlsxwriter.readthedocs.io)
