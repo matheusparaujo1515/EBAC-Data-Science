@@ -32,7 +32,7 @@ Neste módulo, realizamos o projeto 2 do curso, que consiste em criar um modelo 
 - `input`: Essa pasta contém a base de dados usada para criar o modelo de machine learning.
 - `previsao_de_renda.csv`: Este arquivo CSV é a base de dados usada para treinar e testar o modelo de machine learning, localizado na pasta `input`.
 - `Projeto2_streamlit.py`: EsSe arquivo contém o código para criar o aplicativo Streamlit com o deploy do projeto..
-- `requirements.txt`: Arquivo que contém as versão das bibliotecas Python utilizadas no deploy.
+- `requirements.txt`: Arquivo de texto contendo todas as bibliotecas que o projeto necessita para funcionar corretamente. 
 - `Projeto2_streamlit.mov.webm`: Esse vídeo apresenta o deploy criado com o aplicativo Streamlit.
 
 
