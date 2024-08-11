@@ -15,8 +15,7 @@ Neste módulo, iremos compreender funcionalidades avançadas do Streamlit. Algum
 - `bank-additional.csv`: Base de dados utilizada na análise.
 - `Bank-Branding.jpg`: Essa arquivo trata-se da imagem de inicio página do deploy.
 - `telmarketing_icon.png`: Essa arquivo trata-se da imagem que fica na aba da página do deploy.
-- `requirements.txt`: Arquivo que contém as versão das bibliotecas Python utilizadas no deploy.
-
+- `requirements.txt`: Arquivo de texto contendo todas as bibliotecas que o projeto necessita para funcionar corretamente. 
 
 Este repositório foi criado como parte da Tarefas 01 do Módulo 28, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
