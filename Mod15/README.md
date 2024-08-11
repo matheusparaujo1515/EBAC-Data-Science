@@ -18,6 +18,7 @@ Neste módulo, compreendemos a funcionalidade e utilidade do Streamlit. Algumas 
 - `Mod15Tarefa1.py`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
 - `Mod15Tarefa1.pdf`: Enunciado da tarefa.
 - `uber-raw-data-sep14.zip`: Pasta compactada contendo a base de dados utilizada na questão letra A.
+- `requirements.txt`: Arquivo de texto contendo todas as bibliotecas que o projeto necessita para funcionar corretamente. 
 
 Este repositório foi criado como parte da Tarefa 01 do Módulo 15, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
