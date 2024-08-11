@@ -7,7 +7,6 @@ import numpy as np
 from datetime import datetime
 from PIL import Image
 from io import BytesIO
-import xlsxwriter
 
 
 @st.cache_data
