@@ -10,7 +10,7 @@ Neste módulo, compreender a importância do cálculo na ciência de dados. Algu
 
 ## Conteúdo
 
-- `mod25_Tarefa01.ipynb`: Pasta contendo Notebook Jupyter com a resolução do exercício n° 1.
+- `Mod25_Tarefa02.ipynb`: Pasta contendo Notebook Jupyter com a resolução do exercício n° 1.
 
 Este repositório foi criado como parte da Tarefa 02 do Módulo 25, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
