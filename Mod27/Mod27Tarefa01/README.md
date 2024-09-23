@@ -1,18 +1,17 @@
 # Módulo 27 - Tarefa 01
 
-Neste módulo, cmpreender o conceito e a importância da álgebra linear na ciência de dados. Algumas das principais habilidades que adquirimos incluem:
-- Assimilar a notação matricial e sua aplicação em cálculos com matrizes.
-- Identificar a aplicação da álgebra linear na criação de modelos de regressão.
-- Compreender o conceito de vetores na álgebra linear.
-- Interpretar geometricamente a soma de vetores e a multiplicação por um escalar.
-- Compreender a operação de multiplicação de matriz por vetor.
-- Compreender a multiplicação de matrizes.
-- Identificar transformações lineares
+Neste módulo, compreendemos e exploramos a redução de dimensionalidade. Algumas das principais habilidades que adquirimos incluem:
+- Compreender a técnica de Análise de Componentes Principais (PCA).
+- Identificar a necessidade de redução de dimensionalidade em ciência de dados.
+- Reconhecer a "Maldição da Dimensionalidade" e suas implicações.
+- Avaliar a acurácia de um modelo após a aplicação do PCA.
+- Compreender a importância da covariância e correlação na análise de componentes principais.
+- Identificar a redundância de informação através da correlação entre variáveis.
+- Aplicar a padronização para eliminar a escala de variabilidade da variável original.
 
 ## Conteúdo
-A base de dados necessária para utilização do notebook pode ser baixada no link: [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 - `mod27_Tarefa01.ipynb`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
-
+A base de dados necessária para utilização do notebook pode ser baixada no link: [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 
 Este repositório foi criado como parte da Tarefa 01 do Módulo 26, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
