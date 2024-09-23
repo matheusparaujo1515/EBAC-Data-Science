@@ -1,4 +1,4 @@
-# Módulo 0 - Python para análise de dados
+# Módulo 1 - Python para análise de dados
 
 Neste módulo, aprendemos a linguagem do python desde o zero e compreender importância e utilidade dela na vida dos cintistas de dados. Algumas das principais habilidades que adquirimos  nesse módulo incluem:
 
