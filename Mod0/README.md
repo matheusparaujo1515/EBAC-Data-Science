@@ -26,7 +26,7 @@ Neste módulo, aprendemos a linguagem do python desde o zero e compreender impor
 - `Tarefa08.ipynb`: Código contendo a resolução do 8° exercício proposto.
 - `Tarefa09.ipynb`: Código contendo a resolução do 9° exercício proposto.
 
-Este repositório foi criado como parte da Tarefa 02 do Módulo 14, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte do primeiro módulo do curso de ciência de dados da Ebac, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
@@ -37,9 +37,12 @@ Para mais informações sobre como utilizar as ferramentas e técnicas abordadas
 - [Seaborn](https://seaborn.pydata.org/tutorial.html)
 - [NumPy](https://numpy.org/doc/)
 - [os](https://docs.python.org/3/library/os.html)
-- [sys](https://docs.python.org/3/library/sys.html)
-
-- [wget](https://pypi.org/project/wget/)
-- [zipfile](https://docs.python.org/3/library/zipfile.html)
-- [sys](https://docs.python.org/3/library/sys.html)
+- [Sys](https://docs.python.org/3/library/sys.html)
+- [Wget](https://pypi.org/project/wget/)
+- [Zipfile](https://docs.python.org/3/library/zipfile.html)
+- [Json](https://docs.python.org/3/library/json.html)
+- [Random](https://docs.python.org/3/library/random.html)
+- [Datetime](https://docs.python.org/3/library/datetime.html)
+- [Time](https://docs.python.org/3/library/time.html)
+- [Functools](https://docs.python.org/3/library/functools.html)
 
