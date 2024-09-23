@@ -1,14 +1,14 @@
 # Módulo 06 - Tarefa 01
 
 Neste módulo, exploramos diversos conceitos relacionados os diferentes tipos de variáveis: quantitativas e qualitativas. Algumas das principais habilidades que adquirimos incluem:
-- Aprender a analisar variáveis discretas e contínuas;
-- Dominar a análise de associação entre variáveis no Python;
-- Compreender a utilização da biblioteca Matplotlib do Python;
-- Aprender a criar e modificar gráficos com o Matplotlib;
-- Dominar a manipulação dos elementos de um gráfico no Matplotlib;
-- Aprender a criar gráficos de barras para análise descritiva de variáveis;
-- Compreender como configurar o tamanho e a complexidade dos gráficos;
-- Dominar a criação de gráficos de Pareto para identificar categorias relevantes;
+- Aprender a analisar variáveis discretas e contínuas.
+- Dominar a análise de associação entre variáveis no Python.
+- Compreender a utilização da biblioteca Matplotlib do Python.
+- Aprender a criar e modificar gráficos com o Matplotlib.
+- Dominar a manipulação dos elementos de um gráfico no Matplotlib.
+- Aprender a criar gráficos de barras para análise descritiva de variáveis.
+- Compreender como configurar o tamanho e a complexidade dos gráficos.
+- Dominar a criação de gráficos de Pareto para identificar categorias relevantes.
 
 ## Conteúdo
 
