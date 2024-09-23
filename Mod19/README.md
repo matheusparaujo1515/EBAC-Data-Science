@@ -23,7 +23,7 @@ Neste módulo, iremos compreender funcionalidades avançadas do Streamlit. Algum
 
 ## Conteúdo
 
-- `Mod19.py`: Este notebook Jupyter contém o código da aplicação utilizando o streamlit.
+- `Mod19.py`: Código em Python contendo a aplicação streamlit.
 - `data`: Pasta contém a base de dados utilizada na análise.
 - `img`: Essa pasta contém as imagens utilizadas para personalizar a página do deploy.
 - `requirements.txt`: Arquivo que contém as versão das bibliotecas Python utilizadas no deploy.
