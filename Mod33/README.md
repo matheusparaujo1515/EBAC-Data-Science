@@ -1,6 +1,6 @@
 # Módulo 33 - Tarefa 01
 
-Neste módulo, compreendemos o conceito de inferência estatística.. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos o conceito de inferência estatística. Algumas das principais habilidades que adquirimos incluem:
 - Diferenciar pensamento dedutivo e indutivo.
 - Aplicar o método científico em ciência de dados.
 - Compreender o problema básico da inferência estatística.
