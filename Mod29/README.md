@@ -1,4 +1,4 @@
-# Módulo 19 - Tarefa 01
+# Módulo 29 - Tarefa 01
 
 Neste módulo, compreendemos a importância e utilidade de técnicas de agrupamento como o K-means. Algumas das principais habilidades que adquirimos incluem:
 -  Definir o número de clusters e outros parâmetros;
