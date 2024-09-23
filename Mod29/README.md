@@ -1,11 +1,11 @@
 # Módulo 29 - Tarefa 01
 
 Neste módulo, compreendemos a importância e utilidade de técnicas de agrupamento como o K-means. Algumas das principais habilidades que adquirimos incluem:
--  Definir o número de clusters e outros parâmetros;
+-  Definir o número de clusters e outros parâmetros.
 -  Definição de similaridade no algoritmo K-means;
--  Comparar grupos resultantes com categorias conhecidas;
--  Calcular a distância de cada ponto a cada centróide;
--  Utilização do método de cotovelo e método da silhueta para ajudar a determinar o número de clusters;
+-  Comparar grupos resultantes com categorias conhecidas.
+-  Calcular a distância de cada ponto a cada centróide.
+-  Utilização do método de cotovelo e método da silhueta para ajudar a determinar o número de clusters.
 
 ## Conteúdo
 
