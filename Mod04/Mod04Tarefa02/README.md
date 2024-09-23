@@ -1,14 +1,14 @@
 # Módulo 04 - Tarefa 02
 
 Neste módulo, exploramos diversos conceitos relacionados a compreender a seleção e filtragem de dados em Pandas. Algumas das principais habilidades que adquirimos incluem:
-- Aprender a acessar e modificar valores em um DataFrame;
-- Dominar a transposição e formatação de dados em um DataFrame;
-- Compreender operações entre DataFrames e Series usando Pandas;
-- Aplicar funções do Numpy em um DataFrame;
-- Analisar dados de um arquivo CSV usando operações de DataFrame;
-- Aprender a carregar dados de um link no Jupyter Notebook;
-- Compreender como corrigir problemas de formatação em dados;
-- Dominar o uso de métodos para identificar e contar valores únicos em uma base de dados;
+- Aprender a acessar e modificar valores em um DataFrame.
+- Dominar a transposição e formatação de dados em um DataFrame.
+- Compreender operações entre DataFrames e Series usando Pandas.
+- Aplicar funções do Numpy em um DataFrame.
+- Analisar dados de um arquivo CSV usando operações de DataFrame.
+- Aprender a carregar dados de um link no Jupyter Notebook.
+- Compreender como corrigir problemas de formatação em dados.
+- Dominar o uso de métodos para identificar e contar valores únicos em uma base de dados.
 
 ## Conteúdo
 
