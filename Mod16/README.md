@@ -5,7 +5,7 @@
 
 
 
-[Visualização online do deploy](https://ebac-data-science-mod16.streamlit.app/)
+[Visualização online do deploy](https://projeto3-data-science-ebac.streamlit.app)
 
 Neste módulo, realizamos o projeto 3 do curso, que consiste em criar um modelo de machine learning de regressão para previsão de renda. Algumas das principais habilidades que utilizamos incluem:
 
