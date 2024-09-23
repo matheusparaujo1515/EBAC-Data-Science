@@ -2,10 +2,10 @@
 
 Neste módulo, íremos continuar a explorar diversos conceitos relacionados a compreender a relação entre variáveis qualitativas. Algumas das principais habilidades que adquirimos incluem:
 
-- Aplicar a função Catplot do Seaborn em análises;
-- Analisar dados utilizando tabelas de frequência cruzada;
-- Aplicar a função de um programa para avaliar variáveis;
-- Criar uma matriz de dispersão para visualizar dados;
+- Aplicar a função Catplot do Seaborn em análises.
+- Analisar dados utilizando tabelas de frequência cruzada.
+- Aplicar a função de um programa para avaliar variáveis.
+- Criar uma matriz de dispersão para visualizar dados.
 
 ## Conteúdo
 
