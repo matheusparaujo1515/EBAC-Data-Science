@@ -1,13 +1,13 @@
-# Módulo 14 - Tarefa 01
+# Módulo 26 - Tarefa 01
 
-Neste módulo, compreendemos e exploramos a redução de dimensionalidade. Algumas das principais habilidades que adquirimos incluem:
-- Compreender a técnica de Análise de Componentes Principais (PCA).
-- Identificar a necessidade de redução de dimensionalidade em ciência de dados.
-- Reconhecer a "Maldição da Dimensionalidade" e suas implicações.
-- Avaliar a acurácia de um modelo após a aplicação do PCA.
-- Compreender a importância da covariância e correlação na análise de componentes principais.
-- Identificar a redundância de informação através da correlação entre variáveis.
-- Aplicar a padronização para eliminar a escala de variabilidade da variável original.
+Neste módulo, cmpreender o conceito e a importância da álgebra linear na ciência de dados. Algumas das principais habilidades que adquirimos incluem:
+- Assimilar a notação matricial e sua aplicação em cálculos com matrizes.
+- Identificar a aplicação da álgebra linear na criação de modelos de regressão.
+- Compreender o conceito de vetores na álgebra linear.
+- Interpretar geometricamente a soma de vetores e a multiplicação por um escalar.
+- Compreender a operação de multiplicação de matriz por vetor.
+- Compreender a multiplicação de matrizes.
+- Identificar transformações lineares
 
 ## Conteúdo
 
