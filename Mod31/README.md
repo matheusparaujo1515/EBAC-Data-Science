@@ -1,4 +1,4 @@
-# Módulo 31 - Tarefa 01 e 02
+# Módulo 31 - Tarefas 01 e 02
 
 Neste módulo, compreendemos o conceito de RFV: recência, frequência e valor. Algumas das principais habilidades que adquirimos incluem:
 
