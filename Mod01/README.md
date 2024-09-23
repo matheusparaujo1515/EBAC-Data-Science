@@ -2,17 +2,17 @@
 
 Neste módulo, aprendemos a linguagem do python desde o zero e compreender importância e utilidade dela na vida dos cintistas de dados. Algumas das principais habilidades que adquirimos  nesse módulo incluem:
 
-- Introdução ao curso Python para Análise de Dados;
-- Variáveis e tipos de dados;
-- Estrutura de dados;
-- Fluxo condicional e repetição;
-- Arquivos e funções;
-- Programação funcional;
-- Programação orientada a objetos;
-- Módulos e pacotes;
-- Tratamento de Erros;
-- Scripting;
-- Análise de dados;
+- Introdução ao curso Python para Análise de Dados.
+- Variáveis e tipos de dados.
+- Estrutura de dados.
+- Fluxo condicional e repetição.
+- Arquivos e funções.
+- Programação funcional.
+- Programação orientada a objetos.
+- Módulos e pacotes.
+- Tratamento de Erros.
+- Scripting.
+- Análise de dados.
 
 ## Conteúdo
 
