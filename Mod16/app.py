@@ -18,7 +18,7 @@ st.write('# Análise exploratória da previsão de renda')
 st.write('\n')
 st.write('\n')
 
-planilha = 'C:/Users/mathe/Desktop/Mod16/input/previsao_de_renda.csv'
+planilha = 'Mod16/input/previsao_de_renda.csv'
 renda = pd.read_csv(planilha)
 
 st.write('Iremos utilizar apenas as variáveis que o modelo final de regressão selecionou.')
