@@ -1,4 +1,4 @@
-# Módulo 15 - Tarefa 01 e 02
+# Módulo 31 - Tarefa 01 e 02
 
 Neste módulo, compreendemos o conceito de RFV: recência, frequência e valor. Algumas das principais habilidades que adquirimos incluem:
 
@@ -10,7 +10,7 @@ Neste módulo, compreendemos o conceito de RFV: recência, frequência e valor. 
 - `dados_test_input 2.csv`: Base de dados utilizada na aplicação.
 - `requirements.txt`: Arquivo de texto contendo todas as bibliotecas que o projeto necessita para funcionar corretamente. 
 
-Este repositório foi criado como parte da Tarefa 01 do Módulo 15, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte das Tarefas 01 e 02 do Módulo 31, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
