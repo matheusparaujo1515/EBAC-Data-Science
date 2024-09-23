@@ -1,6 +1,6 @@
 # Módulo 32 - Tarefa 01
 
-Neste módulo, compreendemos a base de probabilidade e sua aplicação na ciência de dados.. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos a base de probabilidade e sua aplicação na ciência de dados. Algumas das principais habilidades que adquirimos incluem:
 - Identificar e aplicar conceitos de variáveis aleatórias e amostragem.
 - Distinguir entre amostragem de população e processo estocástico.
 - Compreender modelos probabilísticos discretos, como Bernoulli e Binomial.
