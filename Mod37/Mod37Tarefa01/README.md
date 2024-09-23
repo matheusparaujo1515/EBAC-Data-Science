@@ -1,4 +1,4 @@
-# Módulo 23 TArefa 01
+# Módulo 37 Tarefa 01
 
 Neste módulo, aprofundamos nossos conhecimentos em Regressão Logística.
 
