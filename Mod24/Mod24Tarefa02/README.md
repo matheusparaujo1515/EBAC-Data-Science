@@ -9,7 +9,8 @@ Neste módulo, compreender o conceito de Boosting. Algumas das principais habili
 
 ## Conteúdo
 
-- `Mod24Tarefa01.ipynb`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
+- `Mod24Tarefa02.ipynb`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
+- `ProCientistadeDados m24_supportmaterial_exercise02 GBM.pdf`: Arquivo contendo comando do exercício.
 
 Este repositório foi criado como parte da Tarefa 02 do Módulo 24, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
