@@ -1,6 +1,6 @@
 # Módulo 2 - Projeto 02 - Classificação de crédito
 
-Neste módulo, realizamos o primeiro projeto do curso, que consiste em criar um modelo de machine learning com Random Forest para concessão de cartões de crédito. Algumas das principais habilidades que utilizamos incluem:
+Neste módulo, realizamos o segundo projeto do curso, que consiste em criar um modelo de machine learning com Random Forest para concessão de cartões de crédito. Algumas das principais habilidades que utilizamos incluem:
 
 - Compreender a metodologia Crisp DM;
 - Compreender o objetivo do negócio ou da modelagem;
@@ -18,7 +18,7 @@ Neste módulo, realizamos o primeiro projeto do curso, que consiste em criar um 
 - `Projeto 01 - Classificação de crédito.ipynb`: Este notebook Jupyter contém o código do projeto de previsão de renda. Ele inclui análises exploratórias de dados, desenvolvimento e treinamento de modelos de machine learning, visualizações de dados e outras análises relacionadas ao projeto.
 - `demo01.csv`: Este arquivo CSV é a base de dados usada para treinar e testar o modelo de machine learning.
 
-Este repositório foi criado como parte do projeto 01 realizado no Módulo 2, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte do projeto 02 realizado no curso, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
