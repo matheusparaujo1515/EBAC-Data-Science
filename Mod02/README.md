@@ -1,4 +1,4 @@
-# Módulo 2 - Projeto 01 - Classificação de crédito
+# Módulo 2 - Projeto 02 - Classificação de crédito
 
 Neste módulo, realizamos o primeiro projeto do curso, que consiste em criar um modelo de machine learning com Random Forest para concessão de cartões de crédito. Algumas das principais habilidades que utilizamos incluem:
 
