@@ -2,16 +2,16 @@
 
 Neste módulo, realizamos o segundo projeto do curso, que consiste em criar um modelo de machine learning com Random Forest para concessão de cartões de crédito. Algumas das principais habilidades que utilizamos incluem:
 
-- Compreender a metodologia Crisp DM;
-- Compreender o objetivo do negócio ou da modelagem;
-- Planejar a coleta e atualização dos dados;
-- Avaliar a qualidade dos dados para análise;
-- Compreender a importância da preparação de dados no processo Crisp;
-- Aplicar técnicas de modelagem em dados preparados;
-- Avaliar a eficácia de um modelo usando métricas específicas;
-- Compreender a avaliação dos resultados do modelo em termos de impacto financeiro;
-- Aplicar a técnica de modelagem Random Forest;
-- Avaliar a eficácia do modelo através da acurácia;
+- Compreender a metodologia Crisp DM.
+- Compreender o objetivo do negócio ou da modelagem.
+- Planejar a coleta e atualização dos dados.
+- Avaliar a qualidade dos dados para análise.
+- Compreender a importância da preparação de dados no processo Crisp.
+- Aplicar técnicas de modelagem em dados preparados.
+- Avaliar a eficácia de um modelo usando métricas específicas.
+- Compreender a avaliação dos resultados do modelo em termos de impacto financeiro.
+- Aplicar a técnica de modelagem Random Forest.
+- Avaliar a eficácia do modelo através da acurácia.
 
 ## Conteúdo
 
