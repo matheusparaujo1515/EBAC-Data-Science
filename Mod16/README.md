@@ -1,5 +1,5 @@
-# Módulo 16 - Projeto 02 - Previsão de renda
-[Projeto2_streamlit.mov.webm](https://github.com/matheusparaujo1515/EBAC-Data-Science/assets/153859098/6137c734-0fd3-45ea-8e2c-a46c4bc7e31b)
+# Módulo 16 - Projeto 03 - Previsão de renda
+[Projeto3_streamlit.mov.webm](https://github.com/matheusparaujo1515/EBAC-Data-Science/assets/153859098/6137c734-0fd3-45ea-8e2c-a46c4bc7e31b)
 
 
 
@@ -7,7 +7,7 @@
 
 [Visualização online do deploy](https://ebac-data-science-mod16.streamlit.app/)
 
-Neste módulo, realizamos o projeto 2 do curso, que consiste em criar um modelo de machine learning de regressão para previsão de renda. Algumas das principais habilidades que utilizamos incluem:
+Neste módulo, realizamos o projeto 3 do curso, que consiste em criar um modelo de machine learning de regressão para previsão de renda. Algumas das principais habilidades que utilizamos incluem:
 
 - Desenvolver habilidades de análise de dados usando Python e Jupyter Notebook.
 - Compreender a importância de personalizar e aprimorar a entrega de projetos.
@@ -27,13 +27,13 @@ Neste módulo, realizamos o projeto 2 do curso, que consiste em criar um modelo 
 
 ## Conteúdo
 
-- `Projeto 2 - Previsão de renda.ipynb`: Este notebook Jupyter contém o código do projeto de previsão de renda. Ele inclui análises exploratórias de dados, desenvolvimento e treinamento de modelos de machine learning, visualizações de dados e outras análises relacionadas ao projeto.
+- `Projeto 3 - Previsão de renda.ipynb`: Este notebook Jupyter contém o código do projeto de previsão de renda. Ele inclui análises exploratórias de dados, desenvolvimento e treinamento de modelos de machine learning, visualizações de dados e outras análises relacionadas ao projeto.
 - `output`: Pasta contém os arquivos que são gerados como saída durante a execução do notebook Jupyter do projeto. Isso pode incluir gráficos, imagens, e arquivos html ou qualquer outra saída produzida durante a análise de dados.
 - `input`: Essa pasta contém a base de dados usada para criar o modelo de machine learning.
 - `previsao_de_renda.csv`: Este arquivo CSV é a base de dados usada para treinar e testar o modelo de machine learning, localizado na pasta `input`.
-- `Projeto2_streamlit.py`: EsSe arquivo contém o código para criar o aplicativo Streamlit com o deploy do projeto..
+- `Projeto3_streamlit.py`: EsSe arquivo contém o código para criar o aplicativo Streamlit com o deploy do projeto..
 - `requirements.txt`: Arquivo de texto contendo todas as bibliotecas que o projeto necessita para funcionar corretamente. 
-- `Projeto2_streamlit.mov.webm`: Esse vídeo apresenta o deploy criado com o aplicativo Streamlit.
+- `Projeto3_streamlit.mov.webm`: Esse vídeo apresenta o deploy criado com o aplicativo Streamlit.
 
 
 Este repositório foi criado como parte do projeto 02 realizado no Módulo 16, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
