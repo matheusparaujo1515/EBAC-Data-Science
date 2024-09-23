@@ -1,9 +1,9 @@
 # Módulo 12 - Tarefa 03
 Neste módulo, exploramos diversos conceitos relacionados a Compreender o regressão e sua importância na ciência de dados. Algumas das principais habilidades que adquirimos incluem:
- - Conceito de multiplicação de matrizes
- - Aplicação de álgebra matricial em modelos de regressão  
- - Compreender statsmodels e Patsy
- - Compreender regressão múltipla
+ - Conceito de multiplicação de matrizes.
+ - Aplicação de álgebra matricial em modelos de regressão.
+ - Compreender statsmodels e Patsy.
+ - Compreender regressão múltipla.
 
 ## Conteúdo
 - `mod12 ex03 - regressão múltipla.ipynb`: Notebook Jupyter com a resolução do exercício.
