@@ -13,7 +13,7 @@ Neste módulo, compreendemos e exploramos a redução de dimensionalidade. Algum
 ## Conteúdo
 - `mod27_Tarefa02.ipynb`: Notebook Jupyter contendo a resolução do exercício proposto neste módulo.
 
-**Dataset utilizado**: A base de dados Human Activity Recognition usada no notebook pode ser baixada diretamente do site da UCI:[UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
+**Dataset utilizado**: A base de dados Human Activity Recognition usada no notebook pode ser baixada diretamente do site da UCI: [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 
 Este repositório foi criado como parte da Tarefa 01 do Módulo 26, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
