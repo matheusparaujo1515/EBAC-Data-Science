@@ -1,8 +1,8 @@
 # Módulo 06 - Tarefa 02
 
 Neste módulo, íremos continuar a explorar diversos conceitos relacionados a compreender a análise de variáveis contínuas através de histogramas e boxplot. Algumas das principais habilidades que adquirimos incluem:
-- Aplicar a função 'describe' para obter uma visão geral dos dados;
-- Investigar valores extremos e entender suas causas (outliers);
+- Aplicar a função 'describe' para obter uma visão geral dos dados.
+- Investigar valores extremos e entender suas causas (outliers).
 
 ## Conteúdo
 
