@@ -1,6 +1,6 @@
 # Módulo 23
 
-Neste módulo, compreendemos como funcionan os mais variados tipos de modelos. Algumas das principais habilidades que adquirimos incluem:
+Neste módulo, compreendemos como funciona os mais variados tipos de modelos. Algumas das principais habilidades que adquirimos incluem:
 
 - Compreender o conceito de técnicas de ensemble, especificamente Bagging.
 - Compreender o conceito e a aplicação do método Random Forest.
