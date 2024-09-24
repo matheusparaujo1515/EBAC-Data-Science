@@ -1,5 +1,3 @@
-[![](https://raw.githubusercontent.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados/main/ebac-course-utils/media/logo/newebac_logo_black_half.png)](https://github.com/rhatiro/Curso_EBAC-Profissao_Cientista_de_Dados)
-
 # Curso Profissão: Cientista de Dados
 
 - [x] [Módulo 01 - Python para Análise de Dados](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod01)
