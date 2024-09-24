@@ -1,10 +1,10 @@
 # Projeto-Final-SQL
 
-Este repositório é a entrega do projeto final deste curso de SQL. O foco deste projeto de SQL é manusear dados desde a obtenção, resgate no bucket, execução de queries e toda a parte de análise descritiva. Além do SQL, em algumas partes do projeto, utilizaremos Python para gerar gráficos que melhoram nossa percepção e nos ajudam a criar insights. Estamos utilizando uma base de dados fictícia de uma instituição bancária, e o principal objetivo deste trabalho é gerar insights quanto a melhorias de serviços, processos e estratégias para a empresa.
+Este repositório é a entrega do projeto final deste módulo de SQL. O foco deste projeto de SQL é manusear dados desde a obtenção, resgate no bucket, execução de queries e toda a parte de análise descritiva. Além do SQL, em algumas partes do projeto, utilizaremos Python para gerar gráficos que melhoram nossa percepção e nos ajudam a criar insights. Estamos utilizando uma base de dados fictícia de uma instituição bancária, e o principal objetivo deste trabalho é gerar insights quanto a melhorias de serviços, processos e estratégias para a empresa.
 
 Para utilizarmos SQL, empregamos o AWS Athena juntamente com o S3 Bucket, com uma versão reduzida dos dados disponibilizados em: [GitHub](https://github.com/andre-marcos-perez/ebac-course-utils/tree/main/dataset).
 
-As principais habilidades que aprendemos no curso incluem:
+As principais habilidades que aprendemos no módulo incluem:
 - Compreender o que é uma base de dados e como os dados são organizados em softwares de bancos de dados;
 - Utilizar a linguagem de programação SQL para manipular dados em bases de dados;
 - Entender os termos fundamentais de armazenamento de dados físicos e lógicos;
@@ -41,7 +41,7 @@ As principais habilidades que aprendemos no curso incluem:
 - `Queries`: Esta pasta contém capturas de imagem dos resultados das queries feitas no AWS Athena.
 - `credit_base.csv`: Este arquivo CSV é a base de dados usada para a análise.
 
-Este repositório foi criado como parte do projeto final do curso de SQL para análise de dados da Ebac, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte do projeto final do módulo de SQL para análise de dados da Ebac, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
