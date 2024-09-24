@@ -86,7 +86,6 @@ rpds-py==0.20.0
 schemdraw==0.15
 scikit-learn==1.2.2
 scikit-plot==0.3.7
-scipy==1.10.1
 semver==3.0.2
 setuptools>=59.6.0
 six==1.16.0
