@@ -76,4 +76,4 @@
 
 - [ ] [Módulo 38 - Streamlit VI e Pycaret](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod38)
 
-- [x] [Módulo 39 - SQL para Análise de Dados](https://github.com/matheusparaujo1515/EBAC-Data-Science/)
+- [x] [Módulo 39 - SQL para Análise de Dados](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod39)
