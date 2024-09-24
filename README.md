@@ -1,5 +1,7 @@
 # Curso Profissão: Cientista de Dados
 
+Olá! Bem-vindo ao meu repositório de apresentação como Cientista de Dados. Neste repositório, você encontrará todas as atividades realizadas ao longo do curso de Ciência de Dados ministrado pela Escola Britânica de Artes Criativas & Tecnologia (EBAC). Ele oferece uma visão geral das habilidades adquiridas durante o curso, incluindo projetos desenvolvidos com o objetivo de consolidar o aprendizado e servir como recurso para referência futura.
+
 - [x] [Módulo 01 - Python para Análise de Dados](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod01)
 
 - [x] [Módulo 02 - Metodologia](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod02)
