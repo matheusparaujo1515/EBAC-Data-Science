@@ -1,9 +1,6 @@
 # Módulo 16 - Projeto 03 - Previsão de renda
-[Projeto3_streamlit.mov.webm](https://github.com/matheusparaujo1515/EBAC-Data-Science/blob/main/Mod16/Projeto3_streamlit.mov.webm)
 
-
-
-
+[Projeto3_streamlit.mov.webm](https://github.com/user-attachments/assets/e3e42fcf-7073-4b9e-8984-dcc35c18ab4b)
 
 [Visualização online do deploy](https://projeto3-data-science-ebac.streamlit.app)
 
