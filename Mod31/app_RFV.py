@@ -128,7 +128,10 @@ def main():
         df_RF = df_recencia.merge(df_frequencia, on='ID_cliente')
         df_RFV = df_RF.merge(df_valor, on='ID_cliente')
         df_RFV.set_index('ID_cliente', inplace=True)
-        st.write(df_RFV.head())
+
+        # Exibir a tabela completa com rolagem
+        st.write('## Tabela após a criação dos grupos')
+        st.dataframe(df_RFV, height=400)  # Ajuste a altura conforme necessário
 
         st.write('## Segmentação utilizando o RFV')
         st.write("Um jeito de segmentar os clientes é criando quartis para cada componente do RFV, sendo que o melhor quartil é chamado de 'A', o segundo melhor quartil de 'B', o terceiro melhor de 'C' e o pior de 'D'. O melhor e o pior depende da componente. Por exemplo, quanto menor a recência melhor é o cliente (pois ele comprou com a gente tem pouco tempo) logo o menor quartil seria classificado como 'A', já para a componente frequência a lógica se inverte, ou seja, quanto maior a frequência do cliente comprar com a gente, melhor ele/a é, logo, o maior quartil recebe a letra 'A'.")
@@ -147,10 +150,10 @@ def main():
         df_RFV['RFV_Score'] = (df_RFV.R_quartil
                                + df_RFV.F_quartil
                                + df_RFV.V_quartil)
-        st.write(df_RFV.head())
+        st.dataframe(df_RFV, height=400)  # Exibir tabela com rolagem
 
         st.write('Quantidade de clientes por grupos')
-        st.write(df_RFV['RFV_Score'].value_counts())
+        st.write(df_RFV['RFV_Score'].value_counts())  # Contar perfis
 
         st.write(
             '#### Clientes com menor recência, maior frequência e maior valor gasto')
@@ -224,18 +227,12 @@ def main():
                       'DDC': 'Enviar ofertas para tentar aumentar a frequência de compra.',
                       'DDD': 'Clientes que gastaram pouco e compraram pouco; considerar se vale a pena ações adicionais ou focar em clientes mais promissores.'
                       }
+
         df_RFV['acoes de marketing/crm'] = df_RFV['RFV_Score'].map(dict_acoes)
-        st.write(df_RFV.head())
+        st.dataframe(df_RFV, height=400)  # Exibir tabela com rolagem
 
         # Download do arquivo RFV segmentado
         df_xlsx = to_excel(df_RFV)
         st.download_button(label='📥 Download',
                            data=df_xlsx,
-                           file_name='RFV_output.xlsx')
-
-        st.write('Quantidade de clientes por tipo de ação')
-        st.write(df_RFV['acoes de marketing/crm'].value_counts(dropna=False))
-
-
-if __name__ == '__main__':
-    main()
+                           file
