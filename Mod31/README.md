@@ -3,7 +3,11 @@
 Para visualizar o aplicativo Streamlit hospedado na web, clique [aqui](https://ebac-data-science-mod31.streamlit.app).
 
 Neste módulo, compreendemos o conceito de RFV: recência, frequência e valor. Algumas das principais habilidades que adquirimos incluem:
-- 
+- Compreender o conceito de RFV e sua aplicação na segmentação de clientes.
+- Desenvolver estratégias de marketing eficazes usando a segmentação RFV.
+- Aplicar funções para determinar a classificação dos clientes.
+- Automatizar a segmentação para ações de marketing futuras.
+- Praticar a personalização do código para diferentes ações de marketing.
 
 ## Conteúdo
 
