@@ -158,13 +158,13 @@ def main():
 
         bank_raw_target_perc = bank_raw['y'].value_counts(
             normalize=True).to_frame() * 100
-        bank_raw_target_perc.columns = ['percentage']
+        bank_raw_target_perc.columns = ['Porcentagem']
         bank_raw_target_perc = bank_raw_target_perc.sort_index()
 
         try:
             bank_target_perc = bank['y'].value_counts(
                 normalize=True).to_frame() * 100
-            bank_target_perc.columns = ['percentage']
+            bank_target_perc.columns = ['Porcentagem']
             bank_target_perc = bank_target_perc.sort_index()
         except Exception as e:
             st.error(f'Erro no filtro: {e}')
@@ -191,24 +191,24 @@ def main():
         # PLOTS
         if graph_type == 'Barras':
             sns.barplot(x=bank_raw_target_perc.index,
-                        y='percentage',
+                        y='Porcentagem',
                         data=bank_raw_target_perc,
                         ax=ax[0])
             ax[0].bar_label(ax[0].containers[0])
             ax[0].set_title('Dados brutos', fontweight="bold")
 
             sns.barplot(x=bank_target_perc.index,
-                        y='percentage',
+                        y='Porcentagem',
                         data=bank_target_perc,
                         ax=ax[1])
             ax[1].bar_label(ax[1].containers[0])
             ax[1].set_title('Dados filtrados', fontweight="bold")
         else:
             bank_raw_target_perc.plot(
-                kind='pie', autopct='%.2f', y='percentage', ax=ax[0])
+                kind='pie', autopct='%.2f', y='Porcentagem', ax=ax[0])
             ax[0].set_title('Dados brutos', fontweight="bold")
 
-            bank_target_perc.plot(kind='pie', autopct='%.2f', y='percentage', ax=ax[1])
+            bank_target_perc.plot(kind='pie', autopct='%.2f', y='Porcentagem', ax=ax[1])
             ax[1].set_title('Dados filtrados', fontweight="bold")
 
         st.pyplot(plt)
