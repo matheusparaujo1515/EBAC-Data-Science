@@ -1,4 +1,6 @@
-# Módulo 19 - Tarefa 01 e 02 
+# Módulo 19 - Tarefa 01 e 02
+
+[Mod19_streamlit.mov.webm](https://github.com/user-attachments/assets/e809ffed-db61-4702-8ac4-8f18a8da24cb)
 
 [Visualização online do deploy](https://ebac-data-science-mod-19.streamlit.app)
 
