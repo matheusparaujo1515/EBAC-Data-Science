@@ -29,6 +29,7 @@ Neste módulo, iremos compreender funcionalidades avançadas do Streamlit. Algum
 - `data`: Pasta contém a base de dados utilizada na análise.
 - `img`: Essa pasta contém as imagens utilizadas para personalizar a página do deploy.
 - `requirements.txt`: Arquivo que contém as versão das bibliotecas Python utilizadas no deploy.
+- ``Mod19_streamlit.mov.webm``: Esse vídeo apresenta o deploy criado com o aplicativo Streamlit.
 
 
 Este repositório foi criado como parte das Tarefas 01 e 02 do Módulo 19, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
