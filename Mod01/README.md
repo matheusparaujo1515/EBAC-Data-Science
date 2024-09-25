@@ -1,32 +1,21 @@
-# Módulo 1 - Python para análise de dados
+# Módulo 1 -  Projeto 01 - Análise de crédito
 
-Neste módulo, aprendemos a linguagem do python desde o zero e compreender importância e utilidade dela na vida dos cintistas de dados. Algumas das principais habilidades que adquirimos  nesse módulo incluem:
+No final do primeiro módulo, realizamos nosso primeiro projeto do curso, que consistiu em criar uma análise detalhada com o objetivo de ajudar a empresa a tomar decisões mais informadas sobre seus clientes, prevenindo a inadimplência e promovendo práticas de crédito mais responsáveis. Algumas das principais habilidades que utilizamos incluem:
 
-- Introdução ao curso Python para Análise de Dados.
-- Variáveis e tipos de dados.
-- Estrutura de dados.
-- Fluxo condicional e repetição.
-- Arquivos e funções.
-- Programação funcional.
-- Programação orientada a objetos.
-- Módulos e pacotes.
-- Tratamento de Erros.
-- Scripting.
-- Análise de dados.
+- Importação de bibliotecas.
+- Carregamento/geração de dados.
+- Exploração de Dados.
+- Tratamento e Limpeza de Dados.
+- Análises Visuais.
+- Insights Gerados
 
 ## Conteúdo
 
-- `Tarefa01.ipynb`: Código contendo a resolução do 1° exercício proposto.
-- `Tarefa02.ipynb`: Código contendo a resolução do 2° exercício proposto.
-- `Tarefa03.ipynb`: Código contendo a resolução do 3° exercício proposto.
-- `Tarefa04.ipynb`: Código contendo a resolução do 4° exercício proposto.
-- `Tarefa05.ipynb`: Código contendo a resolução do 5° exercício proposto.
-- `Tarefa06.ipynb`: Código contendo a resolução do 6° exercício proposto.
-- `Tarefa07.ipynb`: Código contendo a resolução do 7° exercício proposto.
-- `Tarefa08.ipynb`: Código contendo a resolução do 8° exercício proposto.
-- `Tarefa09.ipynb`: Código contendo a resolução do 9° exercício proposto.
+- `Projeto 1 - Análise de crédito.ipynb`: Este Notebook Jupyter contém o código do projeto de análise de crédito.
+- `output`: Pasta contém os arquivos que são gerados como saída durante a execução do notebook Jupyter do projeto. Isso inclui gráficos e imagens ou qualquer outra saída produzida durante a análise de dados.
+- `Tarefas`: Pasta que contém a resolução das tarefas realizadas ao longo do módulo.
 
-Este repositório foi criado como parte do primeiro módulo do curso de ciência de dados da Ebac, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
+Este repositório foi criado como parte do primeiro projeto do curso de ciência de dados da Ebac, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
 ## Referências
 
@@ -35,14 +24,5 @@ Para mais informações sobre como utilizar as ferramentas e técnicas abordadas
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Matplotlib](https://matplotlib.org/stable/contents.html)
 - [Seaborn](https://seaborn.pydata.org/tutorial.html)
-- [NumPy](https://numpy.org/doc/)
 - [os](https://docs.python.org/3/library/os.html)
-- [Sys](https://docs.python.org/3/library/sys.html)
-- [Wget](https://pypi.org/project/wget/)
-- [Zipfile](https://docs.python.org/3/library/zipfile.html)
-- [Json](https://docs.python.org/3/library/json.html)
-- [Random](https://docs.python.org/3/library/random.html)
-- [Datetime](https://docs.python.org/3/library/datetime.html)
-- [Time](https://docs.python.org/3/library/time.html)
-- [Functools](https://docs.python.org/3/library/functools.html)
-
+- [Warnings](https://docs.python.org/3/library/warnings.html)
