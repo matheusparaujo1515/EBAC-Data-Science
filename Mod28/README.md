@@ -1,5 +1,7 @@
 # Módulo 28 - Tarefa
 
+[Mod28_streamlit.mov.webm](https://github.com/user-attachments/assets/0db72aa5-a39b-43d9-a2a0-3b90ecea6432)
+
 [Visualização online do deploy](https://deploy-mod28.streamlit.app)
 
 Neste módulo, iremos compreender funcionalidades avançadas do Streamlit. Algumas das principais habilidades que utilizamos incluem:
