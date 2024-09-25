@@ -30,7 +30,7 @@ mdurl==0.1.2
 multitasking==0.0.11
 nest-asyncio==1.6.0
 numpy==1.26.4
-openpyxl
+openpyxl==3.1.2
 packaging==24.0
 pandas==2.2.2
 pandas-datareader==0.10.0
