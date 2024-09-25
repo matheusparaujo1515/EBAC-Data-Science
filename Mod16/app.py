@@ -8,7 +8,7 @@ import numpy as np
 sns.set(context='talk', style='ticks')
 
 st.set_page_config(
-    page_title="Projeto 2",
+    page_title="Projeto 3",
     page_icon="https://cdn-icons-png.flaticon.com/512/7500/7500336.png",
     layout="wide",
 )
