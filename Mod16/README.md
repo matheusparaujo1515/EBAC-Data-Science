@@ -28,7 +28,7 @@ Neste módulo, realizamos o projeto 3 do curso, que consiste em criar um modelo 
 - `output`: Pasta contém os arquivos que são gerados como saída durante a execução do notebook Jupyter do projeto. Isso pode incluir gráficos, imagens, e arquivos html ou qualquer outra saída produzida durante a análise de dados.
 - `input`: Essa pasta contém a base de dados usada para criar o modelo de machine learning.
 - `previsao_de_renda.csv`: Este arquivo CSV é a base de dados usada para treinar e testar o modelo de machine learning, localizado na pasta `input`.
-- `Projeto3_streamlit.py`: Este arquivo contém o código para criar o aplicativo Streamlit com o deploy do projeto..
+- `Projeto3_streamlit.py`: Este arquivo contém o código para criar o aplicativo Streamlit com o deploy do projeto.
 - `requirements.txt`: Arquivo de texto contendo todas as bibliotecas que o projeto necessita para funcionar corretamente. 
 - `Projeto3_streamlit.mov.webm`: Esse vídeo apresenta o deploy criado com o aplicativo Streamlit.
 
