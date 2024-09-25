@@ -10,6 +10,8 @@ Neste módulo, compreendemos o conceito de RFV: recência, frequência e valor. 
 - Aplicar funções para determinar a classificação dos clientes.
 - Automatizar a segmentação para ações de marketing futuras.
 - Praticar a personalização do código para diferentes ações de marketing.
+- `Mod31_streamlit.mov.webm.webm`: Esse vídeo apresenta o deploy criado com o aplicativo Streamlit.
+
 
 ## Conteúdo
 
