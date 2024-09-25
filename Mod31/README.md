@@ -1,5 +1,7 @@
 # Módulo 31 - Tarefas 01 e 02
 
+[Mod31_streamlit.mov.webm.webm](https://github.com/user-attachments/assets/661c27b0-1156-40a7-84e0-e261c966017a)
+
 [Para visualizar o aplicativo Streamlit hospedado na web.](https://ebac-data-science-mod31.streamlit.app).
 
 Neste módulo, compreendemos o conceito de RFV: recência, frequência e valor. Algumas das principais habilidades que adquirimos incluem:
