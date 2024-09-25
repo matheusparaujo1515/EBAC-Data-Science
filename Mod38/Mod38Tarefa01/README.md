@@ -1,14 +1,14 @@
 # Módulo 38 Tarefa 01
 
-Neste módulo, conhecemos e compreendemos a biblioteca PyCaret, onde permite que usuários treinem, testem, ajustem e comparem modelos com apenas algumas linhas de código, eliminando a necessidade de escrever scripts complexos.
+Neste módulo, conhecemos e compreendemos a biblioteca PyCaret, que permite que usuários treinem, testem, ajustem e comparem modelos com apenas algumas linhas de código, eliminando a necessidade de escrever scripts complexos.
 
 ## Conteúdo
 
 - `Mod38Exercicio01.ipynb`: Arquivo Notebook Jupyter com a resolução do exercício n° 1.
 - `credit_scoring.zip`: Arquivo compactado contendo a base de dados utilizada na análise.
 - ``lightgbm_pipeline.pkl``: Arquivo contendo o pipeline do modelo de LightGBM.
-- ``logs.log``: Arquivo contendo etapas concluídas com sucesso no pipeline
--`sample_credit_scoring.ftr`: Base de dados credit_scoring reduzida com 100.000 linhas.
+- ``logs.log``: Arquivo contendo os registros das etapas concluídas com sucesso no pipeline.
+-`sample_credit_scoring.ftr`: Base de dados ``credit_scoring`` reduzida, com 100.000 linhas.
 
 Este repositório foi criado como parte da Tarefa 01 do Módulo 38, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
