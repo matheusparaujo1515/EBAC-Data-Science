@@ -1,5 +1,5 @@
 # Módulo 16 - Projeto 03 - Previsão de renda
-[Projeto3_streamlit.mov.webm](https://github.com/matheusparaujo1515/EBAC-Data-Science/assets/153859098/6137c734-0fd3-45ea-8e2c-a46c4bc7e31b)
+[Projeto3_streamlit.mov.webm](https://github.com/matheusparaujo1515/EBAC-Data-Science/blob/main/Mod16/Projeto3_streamlit.mov.webm)
 
 
 
