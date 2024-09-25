@@ -196,6 +196,7 @@ def main():
                         ax=ax[0])
             ax[0].bar_label(ax[0].containers[0])
             ax[0].set_title('Dados brutos', fontweight="bold")
+            ax[0].legend(loc='upper right')  # Move a legenda para o lado direito
 
             sns.barplot(x=bank_target_perc.index,
                         y='Porcentagem',
@@ -203,6 +204,7 @@ def main():
                         ax=ax[1])
             ax[1].bar_label(ax[1].containers[0])
             ax[1].set_title('Dados filtrados', fontweight="bold")
+            ax[1].legend(loc='upper right')  # Move a legenda para o lado direito
         else:
             bank_raw_target_perc.plot(
                 kind='pie', autopct='%.2f', y='Porcentagem', ax=ax[0])
