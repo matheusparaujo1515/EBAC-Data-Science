@@ -1,4 +1,3 @@
-
 # Imports
 import pandas as pd
 import streamlit as st
@@ -14,8 +13,6 @@ def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
 # Função para converter o df para excel
-
-
 @st.cache_data
 def to_excel(df):
     output = BytesIO()
@@ -59,8 +56,6 @@ def freq_val_class(x, fv, q_dict):
         return 'A'
 
 # Função principal da aplicação
-
-
 def main():
     # Configuração inicial da página da aplicação
     st.set_page_config(page_title='RFV',
@@ -87,10 +82,6 @@ def main():
     """)
     st.markdown("---")
 
-    # Apresenta a imagem na barra lateral da aplicação
-    # image = Image.open("Bank-Branding.jpg")
-    # st.sidebar.image(image)
-
     # Botão para carregar arquivo na aplicação
     st.sidebar.write("## Suba o arquivo")
     data_file_1 = st.sidebar.file_uploader(
@@ -98,9 +89,32 @@ def main():
 
     # Verifica se há conteúdo carregado na aplicação
     if (data_file_1 is not None):
-        df_compras = pd.read_csv(
-            data_file_1, infer_datetime_format=True, parse_dates=['DiaCompra'])
+        try:
+            if data_file_1.name.endswith('.csv'):
+                # Tenta carregar o arquivo CSV com codificação UTF-8
+                df_compras = pd.read_csv(
+                    data_file_1, infer_datetime_format=True, parse_dates=['DiaCompra'], encoding='utf-8')
+            elif data_file_1.name.endswith('.xlsx'):
+                # Carrega o arquivo Excel
+                df_compras = pd.read_excel(
+                    data_file_1, parse_dates=['DiaCompra'])
+            else:
+                st.error('Tipo de arquivo não suportado. Por favor, envie um arquivo CSV ou XLSX.')
+                return
+        except UnicodeDecodeError:
+            # Se falhar, tenta outra codificação comum como 'ISO-8859-1'
+            df_compras = pd.read_csv(
+                data_file_1, infer_datetime_format=True, parse_dates=['DiaCompra'], encoding='ISO-8859-1')
+        except pd.errors.EmptyDataError:
+            st.error('O arquivo está vazio. Por favor, envie um arquivo válido.')
+            return
 
+        # Verifica se o DataFrame está vazio
+        if df_compras.empty:
+            st.error('O arquivo carregado está vazio.')
+            return
+
+        # Continuar com o processamento do arquivo
         st.write('## Recência (R)')
 
         dia_atual = df_compras['DiaCompra'].max()
@@ -138,8 +152,8 @@ def main():
         st.write(df_RFV.head())
 
         st.write('## Segmentação utilizando o RFV')
-        st.write("Um jeito de segmentar os clientes é criando quartis para cada componente do RFV, sendo que o melhor quartil é chamado de 'A', o segundo melhor quartil de 'B', o terceiro melhor de 'C' e o pior de 'D'. O melhor e o pior depende da componente. Po exemplo, quanto menor a recência melhor é o cliente (pois ele comprou com a gente tem pouco tempo) logo o menor quartil seria classificado como 'A', já pra componente frêquencia a lógica se inverte, ou seja, quanto maior a frêquencia do cliente comprar com a gente, melhor ele/a é, logo, o maior quartil recebe a letra 'A'.")
-        st.write('Se a gente tiver interessado em mais ou menos classes, basta a gente aumentar ou diminuir o número de quantils pra cada componente.')
+        st.write("Um jeito de segmentar os clientes é criando quartis para cada componente do RFV, sendo que o melhor quartil é chamado de 'A', o segundo melhor quartil de 'B', o terceiro melhor de 'C' e o pior de 'D'. O melhor e o pior depende da componente. Por exemplo, quanto menor a recência melhor é o cliente (pois ele comprou com a gente tem pouco tempo) logo o menor quartil seria classificado como 'A', já para componente frequência a lógica se inverte, ou seja, quanto maior a frequência do cliente comprar com a gente, melhor ele/a é, logo, o maior quartil recebe a letra 'A'.")
+        st.write('Se a gente tiver interessado em mais ou menos classes, basta a gente aumentar ou diminuir o número de quantis para cada componente.')
 
         st.write('Quartis para o RFV')
         quartis = df_RFV.quantile(q=[0.25, 0.5, 0.75])
@@ -232,11 +246,10 @@ def main():
                       'DDC': 'Enviar ofertas para tentar aumentar a frequência de compra.',
                       'DDD': 'Clientes que gastaram pouco e compraram pouco; considerar se vale a pena ações adicionais ou focar em clientes mais promissores.'
                       }
-
         df_RFV['acoes de marketing/crm'] = df_RFV['RFV_Score'].map(dict_acoes)
         st.write(df_RFV.head())
 
-        # df_RFV.to_excel('./auxiliar/output/RFV_.xlsx')
+        # Download do arquivo RFV segmentado
         df_xlsx = to_excel(df_RFV)
         st.download_button(label='📥 Download',
                            data=df_xlsx,
