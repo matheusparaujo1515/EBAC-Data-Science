@@ -90,14 +90,31 @@ def main():
     # Verifica se há conteúdo carregado na aplicação
     if (data_file_1 is not None):
         try:
-            # Tenta carregar o arquivo com codificação UTF-8
-            df_compras = pd.read_csv(
-                data_file_1, infer_datetime_format=True, parse_dates=['DiaCompra'], encoding='utf-8')
+            if data_file_1.name.endswith('.csv'):
+                # Tenta carregar o arquivo CSV com codificação UTF-8
+                df_compras = pd.read_csv(
+                    data_file_1, infer_datetime_format=True, parse_dates=['DiaCompra'], encoding='utf-8')
+            elif data_file_1.name.endswith('.xlsx'):
+                # Carrega o arquivo Excel
+                df_compras = pd.read_excel(
+                    data_file_1, parse_dates=['DiaCompra'])
+            else:
+                st.error('Tipo de arquivo não suportado. Por favor, envie um arquivo CSV ou XLSX.')
+                return
         except UnicodeDecodeError:
             # Se falhar, tenta outra codificação comum como 'ISO-8859-1'
             df_compras = pd.read_csv(
                 data_file_1, infer_datetime_format=True, parse_dates=['DiaCompra'], encoding='ISO-8859-1')
+        except pd.errors.EmptyDataError:
+            st.error('O arquivo está vazio. Por favor, envie um arquivo válido.')
+            return
 
+        # Verifica se o DataFrame está vazio
+        if df_compras.empty:
+            st.error('O arquivo carregado está vazio.')
+            return
+
+        # Continuar com o processamento do arquivo
         st.write('## Recência (R)')
 
         dia_atual = df_compras['DiaCompra'].max()
