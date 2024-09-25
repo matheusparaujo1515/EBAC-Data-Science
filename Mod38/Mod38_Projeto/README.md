@@ -34,13 +34,10 @@ Este repositório foi criado como parte do projeto 04 realizado no Módulo 38, c
 Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
 
 - [Pandas](https://pandas.pydata.org/docs/)
-- [Matplotlib](https://matplotlib.org/stable/contents.html)
-- [Seaborn](https://seaborn.pydata.org/tutorial.html)
-- [NumPy](https://numpy.org/doc/)
-- [SciPy](https://docs.scipy.org/doc/scipy/)
 - [Warnings](https://docs.python.org/3/library/warnings.html)
 - [Scikit-learn](https://scikit-learn.org/stable/)
-- [Statsmodels](https://www.statsmodels.org/stable/index.html)
 - [Pycaret](https://pycaret.gitbook.io/docs)
-- [Boruta](https://github.com/scikit-learn-contrib/boruta_py)
-
+- [Streamlit](https://docs.streamlit.io/)
+- [io](https://docs.python.org/3/library/io.html)
+- [Pickle](https://docs.python.org/3/library/pickle.html)
+- [Joblib](https://joblib.readthedocs.io/en/stable/)
