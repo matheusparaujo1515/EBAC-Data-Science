@@ -18,8 +18,6 @@ custom_params = {"axes.spines.right": False, "axes.spines.top": False}
 sns.set_theme(style="ticks", rc=custom_params)
 
 # Função para ler os dados
-
-
 @st.cache_data(show_spinner=True)
 def load_data(file_data):
     try:
@@ -28,8 +26,6 @@ def load_data(file_data):
         return pd.read_excel(file_data)
 
 # Função para filtrar baseado na multiseleção de categorias
-
-
 @st.cache_data
 def multiselect_filter(relatorio, col, selecionados):
     if 'all' in selecionados:
@@ -38,15 +34,11 @@ def multiselect_filter(relatorio, col, selecionados):
         return relatorio[relatorio[col].isin(selecionados)].reset_index(drop=True)
 
 # Função para converter o df para csv
-
-
 @st.cache_data
 def convert_df(df):
     return df.to_csv(index=False).encode('utf-8')
 
 # Função para converter o df para excel
-
-
 @st.cache_data
 def to_excel(df):
     output = BytesIO()
@@ -57,8 +49,6 @@ def to_excel(df):
     return processed_data
 
 # Função principal da aplicação
-
-
 def main():
     # Título principal da aplicação
     st.write('# Telemarketing analisys')
@@ -166,16 +156,18 @@ def main():
         # PLOTS
         fig, ax = plt.subplots(1, 2, figsize=(5, 3))
 
-        bank_raw_target_perc = bank_raw.y.value_counts(
+        bank_raw_target_perc = bank_raw['y'].value_counts(
             normalize=True).to_frame() * 100
+        bank_raw_target_perc.columns = ['percentage']
         bank_raw_target_perc = bank_raw_target_perc.sort_index()
 
         try:
-            bank_target_perc = bank.y.value_counts(
+            bank_target_perc = bank['y'].value_counts(
                 normalize=True).to_frame() * 100
+            bank_target_perc.columns = ['percentage']
             bank_target_perc = bank_target_perc.sort_index()
-        except:
-            st.error('Erro no filtro')
+        except Exception as e:
+            st.error(f'Erro no filtro: {e}')
 
         # Botões de download dos dados dos gráficos
         col1, col2 = st.columns(2)
@@ -199,28 +191,27 @@ def main():
         # PLOTS
         if graph_type == 'Barras':
             sns.barplot(x=bank_raw_target_perc.index,
-                        y='y',
+                        y='percentage',
                         data=bank_raw_target_perc,
                         ax=ax[0])
             ax[0].bar_label(ax[0].containers[0])
             ax[0].set_title('Dados brutos', fontweight="bold")
 
             sns.barplot(x=bank_target_perc.index,
-                        y='y',
+                        y='percentage',
                         data=bank_target_perc,
                         ax=ax[1])
             ax[1].bar_label(ax[1].containers[0])
             ax[1].set_title('Dados filtrados', fontweight="bold")
         else:
             bank_raw_target_perc.plot(
-                kind='pie', autopct='%.2f', y='y', ax=ax[0])
+                kind='pie', autopct='%.2f', y='percentage', ax=ax[0])
             ax[0].set_title('Dados brutos', fontweight="bold")
 
-            bank_target_perc.plot(kind='pie', autopct='%.2f', y='y', ax=ax[1])
+            bank_target_perc.plot(kind='pie', autopct='%.2f', y='percentage', ax=ax[1])
             ax[1].set_title('Dados filtrados', fontweight="bold")
 
         st.pyplot(plt)
-
 
 if __name__ == '__main__':
     main()
