@@ -1,6 +1,6 @@
 # Módulo 31 - Tarefas 01 e 02
 
-Para visualizar o aplicativo Streamlit hospedado na web, clique [aqui](https://ebac-data-science-mod31.streamlit.app).
+[Para visualizar o aplicativo Streamlit hospedado na web.](https://ebac-data-science-mod31.streamlit.app).
 
 Neste módulo, compreendemos o conceito de RFV: recência, frequência e valor. Algumas das principais habilidades que adquirimos incluem:
 - Compreender o conceito de RFV e sua aplicação na segmentação de clientes.
