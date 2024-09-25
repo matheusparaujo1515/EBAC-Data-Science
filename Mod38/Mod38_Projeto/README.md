@@ -25,7 +25,7 @@ Este projeto tem como objetivo desenvolver um modelo de **credit scoring** para 
 - `credit_scoring.zip`: Arquivo compactado contendo a base de dados original.
 - `sample_credit_scoring.ftr`: Base de dados reduzida, contendo 100.000 registros utilizados para simulações.
 - `requirements.txt`: Arquivo de texto contendo todas as bibliotecas que o projeto necessita para funcionar corretamente.
--`Projeto04_streamlit.mov.webm.webm`: Este vídeo apresenta o deploy criado com o aplicativo Streamlit.
+- `Projeto04_streamlit.mov.webm.webm`: Este vídeo apresenta o deploy criado com o aplicativo Streamlit.
 
 Este repositório foi criado como parte do projeto 04 realizado no Módulo 38, com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
