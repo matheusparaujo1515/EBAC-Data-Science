@@ -89,9 +89,11 @@ As principais habilidades que aprendi no curso incluem:
 
 - [x] [Módulo 37 - Regressão Logística II](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod37)
 
-- [ ] [Módulo 38 - Streamlit VI e Pycaret](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod38)
+- [x] [Módulo 38 - Streamlit VI e Pycaret](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod38)
 
 - [x] [Módulo 39 - SQL para Análise de Dados](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Mod39)
+
+- [x] [Projeto Final](https://github.com/matheusparaujo1515/EBAC-Data-Science/tree/main/Projeto_Final)
 
 ## Contato
 Se deseja entrar em contato ou saber mais sobre o meu trabalho, sinta-se à vontade para me contatar:
