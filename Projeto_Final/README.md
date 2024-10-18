@@ -22,6 +22,23 @@ Link para acessar a base de dados: https://www.kaggle.com/datasets/alexteboul/di
 
 Este repositório foi criado como parte do projeto final do curso de Ciência de Dados da Escola Britânica de Artes Criativas e Tecnologia (EBAC), com o objetivo de consolidar o aprendizado e fornecer um recurso para referência futura.
 
+## Como rodar o projeto
+
+  1. Clone este repositório:
+  
+     ```bash
+     git clone https://github.com/seu-usuario/EBAC-Data-Science.git
+     streamlit run app.py
+     ```
+  2. Instale as dependências:
+     ```bash
+     pip install -r requirements.txt
+     ```
+  3. Execute o aplicativo:
+     ```bash
+     streamlit run app.py
+     ```
+    
 ## Referências
 
 Para mais informações sobre como utilizar as ferramentas e técnicas abordadas neste módulo, consulte a documentação oficial das seguintes bibliotecas:
