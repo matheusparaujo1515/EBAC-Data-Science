@@ -18,8 +18,8 @@ st.set_page_config(page_title='Classificador de diabetes',
 # Determinar o caminho absoluto do arquivo 'model.pkl'
 model_path = os.path.join(os.path.dirname(__file__), 'model.pkl')
 
-# Carregar o modelo salvo
-pipeline = joblib.load('model.pkl')
+# Carregar o modelo salvo usando o caminho correto
+pipeline = joblib.load(model_path)
 
 # Carregar as colunas que o modelo viu durante o treinamento
 expected_columns = pipeline.named_steps['scaler'].feature_names_in_
