@@ -1,8 +1,6 @@
-# Módulo 38 - Projeto 04 - Avaliação de risco na concessão de cartões de crédito
+# Módulo 38 - Projeto 04 -  Credit Scoring para Cartão de Crédito
 
 [Projeto04_streamlit.mov.webm.webm](https://github.com/user-attachments/assets/6e306288-2402-47ac-a09b-e0d12b19571b)
-
-# Projeto: Credit Scoring para Cartão de Crédito
 
 Este projeto tem como objetivo desenvolver um modelo de **credit scoring** para avaliação de risco na concessão de cartões de crédito. Utilizamos a biblioteca **PyCaret** para automatizar o processo de machine learning, empregando o algoritmo **LightGBM** para gerar um pipeline eficiente.
 
